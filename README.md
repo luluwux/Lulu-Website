@@ -1,12 +1,12 @@
-# Lulu-Website
+# Luppux Team Personal Website.
 
 Bu Proje HTML-CSS adına kendinize bir şey katmanız ve öğrenmeniz adına paylaşılmıştır. İndirim inceleyerek fikir sahibi olabilirsiniz.
 
-# Not: 
+## Not: 
 
 Projede MIT lisansı bulunmaktadır. Bu Websitesinin dosyalarının benden habersiz Paylaşılması/Satılması durumunda gerekli işlemler yapılacaktır.
 
-# Görseller
+## Görseller
 
 ![image](https://user-images.githubusercontent.com/87658293/219654650-aad19b92-a57f-4634-8f1f-9cc321f8a05f.png)
 ![image](https://user-images.githubusercontent.com/87658293/219654686-5d458d7c-9bd9-4910-a2da-460f2e04608b.png)
