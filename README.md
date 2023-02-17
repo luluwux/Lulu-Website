@@ -1,6 +1,6 @@
 # Luppux Team Personal Website.
 
-Bu Proje HTML-CSS adına kendinize bir şey katmanız ve öğrenmeniz adına paylaşılmıştır. İndirim inceleyerek fikir sahibi olabilirsiniz.
+Bu Proje basit bir projede olmakla beraber HTML-CSS adına kendinize bir şey katmanız ve öğrenmeniz adına paylaşılmıştır. İndirim inceleyerek fikir sahibi olabilirsiniz. 
 
 ## Not: 
 
